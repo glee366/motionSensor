@@ -1,6 +1,9 @@
 # STM32 Motion Activated LCD Counter
 ![20250505_231031](https://github.com/user-attachments/assets/fe56c9f7-db4c-428f-8116-adf802fbb9dc)
 
+![20250505_231515 (1)](https://github.com/user-attachments/assets/c3e64e57-75b3-4807-b005-7eae7c377b8d)
+
+
 ## Description
 
 This project demonstrates interfacing a standard 16x2 Character LCD (HD44780 compatible) with an STM32F401RE microcontroller (Nucleo-F401RE board). It reads input from a digital motion sensor, displays a running count of motion detection events, shows the current detection status, and controls an indicator LED.

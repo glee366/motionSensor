@@ -1,6 +1,7 @@
 # STM32 Motion Activated LCD Counter
 ![20250505_231031](https://github.com/user-attachments/assets/fe56c9f7-db4c-428f-8116-adf802fbb9dc)
 
+# GIF of it in action
 ![20250505_231515 (1)](https://github.com/user-attachments/assets/c3e64e57-75b3-4807-b005-7eae7c377b8d)
 
 
